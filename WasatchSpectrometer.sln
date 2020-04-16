@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasatchSpectrometer", "WasatchSpectrometer\WasatchSpectrometer.csproj", "{CF523855-F420-4892-85AB-7ACB9E0D3530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF523855-F420-4892-85AB-7ACB9E0D3530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF523855-F420-4892-85AB-7ACB9E0D3530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF523855-F420-4892-85AB-7ACB9E0D3530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF523855-F420-4892-85AB-7ACB9E0D3530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFFFA9FD-AF62-4BED-8E83-E4617D9A4736}
+	EndGlobalSection
+EndGlobal
